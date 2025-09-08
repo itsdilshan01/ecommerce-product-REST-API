@@ -1,0 +1,28 @@
+# 🛒 E-commerce Store API  
+
+A simple RESTful API built with **Node.js**, **Express**, and **MongoDB** for managing products in an e-commerce store.  
+
+---
+
+## 🚀 Features  
+- ➕ Add a new product  
+- 📖 Get all products  
+- 🔍 Get a product by ID  
+- ✏️ Update a product by ID  
+- ❌ Delete a product by ID  
+
+---
+
+## 🛠 Tech Stack  
+- **Node.js**  
+- **Express.js**  
+- **MongoDB** (with Mongoose ORM)  
+- **dotenv** for environment variables  
+
+---
+
+## 📦 Installation  
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/itsdilshan01/ecommerce-store-api.git
